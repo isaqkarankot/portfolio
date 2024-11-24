@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://lucas-angelo.github.io/portfolio" target="_blank">Personal Portfolio</a></h1>
+<!-- <h1 align="center"><a href="https://lucas-angelo.github.io/portfolio" target="_blank">Personal Portfolio</a></h1>
 
 <h3 align="center">
     <p align="center">
@@ -31,4 +31,5 @@ Personal responsive website with my technology portfolio. Made purely with HTML,
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - **[LICENSE](LICENSE)**
 
----
+---  
+-->
